@@ -1,0 +1,7 @@
+## Interface: 30000
+## Title: |cff01DFD7 Hodir|rAuras
+## Notes: Important Auras for Hodir Hardmode
+## Author: Nils Ruesch/Priscylla
+## Version: 090411
+
+hodiraura.lua
